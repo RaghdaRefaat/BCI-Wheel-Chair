@@ -1,0 +1,26 @@
+E:\amal\amola\4th year\GP\BCI Project\BCI Project\bin\Debug\BCI Project.exe.config
+E:\amal\amola\4th year\GP\BCI Project\BCI Project\bin\Debug\BCI Project.exe
+E:\amal\amola\4th year\GP\BCI Project\BCI Project\bin\Debug\BCI Project.pdb
+E:\amal\amola\4th year\GP\BCI Project\BCI Project\obj\Debug\BCI_Project.Form1.resources
+E:\amal\amola\4th year\GP\BCI Project\BCI Project\obj\Debug\BCI_Project.Properties.Resources.resources
+E:\amal\amola\4th year\GP\BCI Project\BCI Project\obj\Debug\BCI Project.csproj.GenerateResource.Cache
+E:\amal\amola\4th year\GP\BCI Project\BCI Project\obj\Debug\BCI Project.exe
+E:\amal\amola\4th year\GP\BCI Project\BCI Project\obj\Debug\BCI Project.pdb
+C:\Users\Raghda Refaat\Desktop\BCI Project\BCI Project\bin\Debug\BCI Project.exe.config
+C:\Users\Raghda Refaat\Desktop\BCI Project\BCI Project\bin\Debug\BCI Project.exe
+C:\Users\Raghda Refaat\Desktop\BCI Project\BCI Project\bin\Debug\BCI Project.pdb
+C:\Users\Raghda Refaat\Desktop\BCI Project\BCI Project\obj\Debug\BCI_Project.Form1.resources
+C:\Users\Raghda Refaat\Desktop\BCI Project\BCI Project\obj\Debug\BCI_Project.Properties.Resources.resources
+C:\Users\Raghda Refaat\Desktop\BCI Project\BCI Project\obj\Debug\BCI Project.csproj.GenerateResource.Cache
+C:\Users\Raghda Refaat\Desktop\BCI Project\BCI Project\obj\Debug\BCI Project.exe
+C:\Users\Raghda Refaat\Desktop\BCI Project\BCI Project\obj\Debug\BCI Project.pdb
+C:\Users\Raghda Refaat\Desktop\BCI Project\BCI Project\obj\Debug\BCI Project.csprojResolveAssemblyReference.cache
+D:\My Collage's Stages\Fourth Year\First Semester\The Graduation Project\BCI Project\BCI Project\bin\Debug\BCI Project.exe.config
+D:\My Collage's Stages\Fourth Year\First Semester\The Graduation Project\BCI Project\BCI Project\bin\Debug\BCI Project.exe
+D:\My Collage's Stages\Fourth Year\First Semester\The Graduation Project\BCI Project\BCI Project\bin\Debug\BCI Project.pdb
+D:\My Collage's Stages\Fourth Year\First Semester\The Graduation Project\BCI Project\BCI Project\bin\Debug\calculation.dll
+D:\My Collage's Stages\Fourth Year\First Semester\The Graduation Project\BCI Project\BCI Project\obj\Debug\BCI_Project.Form1.resources
+D:\My Collage's Stages\Fourth Year\First Semester\The Graduation Project\BCI Project\BCI Project\obj\Debug\BCI_Project.Properties.Resources.resources
+D:\My Collage's Stages\Fourth Year\First Semester\The Graduation Project\BCI Project\BCI Project\obj\Debug\BCI Project.csproj.GenerateResource.Cache
+D:\My Collage's Stages\Fourth Year\First Semester\The Graduation Project\BCI Project\BCI Project\obj\Debug\BCI Project.exe
+D:\My Collage's Stages\Fourth Year\First Semester\The Graduation Project\BCI Project\BCI Project\obj\Debug\BCI Project.pdb
